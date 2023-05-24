@@ -4,6 +4,15 @@
 
 Representatives from [DAIM](https://www.rms.org.uk/community/science-sections/image-analysis.html) will be delivering an introduction to image analysis workshop in the Learning Zone @ [MMC 2023](https://www.mmc-series.org.uk/) from 12:30 - 14:00 on July 4th. We'll commence with a brief introduction to the topic of image analysis and why it's necessary to ensure reproducible results are derived from microscopy data. We'll then split into parallel demonstrations to show how you can get started performing simple tasks like counting objects using three popular platforms for image analysis: [FIJI](https://fiji.sc/), [napari](https://napari.org/) and [Jupyter notebooks](https://jupyter.org/).
 
+## What Will I Learn?
+
+The demonstrations will illustrate a simple workflow, consisting of a number of simple steps, designed to accomplish the goal of counting objects in a microscopy image. The steps involved will vary slightly depending on the platform used, but will resemble the following:
+1. Opening images
+2. Using filters to suppress noise
+3. Segmenting images using grey level thresholding
+4. Counting objects
+5. Basic morphological quantification
+
 ## Schedule
 <table>
     <tbody>

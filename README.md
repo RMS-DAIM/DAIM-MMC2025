@@ -17,7 +17,7 @@ The demonstrations will illustrate a simple workflow, consisting of a number of 
 <table>
     <tbody>
         <tr>
-            <td>12:00 - 13:00</td>
+            <td>12:30 - 13:00</td>
             <td>Seeing is not believing - the case for automating image analysis</td>
             <td>Dave Barry, Francis Crick Institute</td>
         </tr>

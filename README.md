@@ -18,7 +18,7 @@ The demonstrations will illustrate a simple workflow, consisting of a number of 
     <tbody>
         <tr>
             <td>12:30 - 13:00</td>
-			<td>Learing Zone Seminar Room</td>
+			<td>Learning Zone Seminar Room</td>
             <td>Seeing is not believing - the case for automating image analysis</td>
             <td>Dave Barry, Francis Crick Institute</td>
         </tr>
@@ -27,7 +27,7 @@ The demonstrations will illustrate a simple workflow, consisting of a number of 
         </tr>
         <tr>
             <td>13:00 - 14:00</td>
-			<td>Learing Zone Seminar Room</td>
+			<td>Learning Zone Seminar Room</td>
             <td>Counting objects using a Jupyter Notebook</td>
             <td>Stefania Marcotti, King's College London</td>
         </tr>

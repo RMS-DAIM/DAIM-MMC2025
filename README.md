@@ -7,7 +7,7 @@ Representatives from [DAIM](https://www.rms.org.uk/community/science-sections/im
 ## What Will I Learn?
 
 The demonstrations will illustrate a simple workflow, consisting of a number of simple steps, designed to accomplish the goal of counting objects in a microscopy image. The steps involved will vary slightly depending on the platform used, but will resemble the following:
-1. Opening images
+1. Opening image
 2. Using filters to suppress noise
 3. Segmenting images using grey level thresholding
 4. Counting objects

@@ -24,7 +24,7 @@ All slides are freely available [on Google Drive](https://drive.google.com/drive
 <tr>
 <td>12:40 - 12:50</td>
 <td>Learning Zone Seminar Room</td>
-<td>Seeing is not believing - the case for automating image analysis</td>
+<td>Open Source Software for Image Analysis</td>
 <td><a href="https://www.crick.ac.uk/research/find-a-researcher/david-barry">Dave Barry, Francis Crick Institute</a></td>
 </tr>
 <tr>

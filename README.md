@@ -13,6 +13,10 @@ The demonstrations will illustrate a simple workflow, consisting of a number of 
 4. Counting objects
 5. Basic morphological quantification
 
+## Slides & Other Materials
+
+All slides are freely available [on Google Drive](https://drive.google.com/drive/folders/17H1vtvHt7QARLvE2vH-JRLYyAmYQHu8C?usp=sharing) and all code is available from [this GitHub repository](https://github.com/RMS-DAIM/DAIM-MMC2025).
+
 ## Schedule
 
 <table>

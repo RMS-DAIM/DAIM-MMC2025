@@ -1,5 +1,3 @@
-# DAIM @ MMC2025
-
 ## Overview
 
 Representatives from [DAIM](https://www.rms.org.uk/community/science-sections/image-analysis.html) will be delivering an introduction to image analysis workshop in the Learning Zone @ [MMC 2025](https://www.mmc-series.org.uk/) from 12:40 - 14:00 on July 1st 2025. We'll commence with a brief introduction to the topic of image analysis and why it's necessary to ensure reproducible results are derived from microscopy data. We'll then run through a number of demonstrations to show how you can get started performing simple tasks like counting objects using three popular platforms for image analysis: [FIJI](https://fiji.sc/), [napari](https://napari.org/) and [Jupyter notebooks](https://jupyter.org/).
